@@ -8,6 +8,7 @@ public class Demo {
     	 if(smallest<arr[i])smallest=arr[i];
      }
      System.out.println(smallest);
+     
 	}
 
 }
