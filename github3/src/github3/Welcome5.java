@@ -1,6 +1,6 @@
 package github3;
 
-public class Welcome4 {
+public class Welcome5 {
 
 	public static void main(String[] args) {
 		System.out.println("we will start the demo");
